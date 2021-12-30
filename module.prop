@@ -1,0 +1,6 @@
+id=mantis-auto-buddy
+name=Mantis Auto Buddy
+version=v1.0.0
+versionCode=100
+author=Yukino Song
+description=Auto load Mantis Buddy on boot
